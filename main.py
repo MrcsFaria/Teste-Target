@@ -18,7 +18,7 @@ print("Resposta do Exercicio 1")
 print(f"o valor da variável SOMA é {soma}")
 
 # Exercicio 2
-# Neste exercicio, utilizei a logica da fibonacci e criei um laço para identificar se o número pertence ou não à sequência
+# Neste exercicio, utilizei a lógica da fibonacci e criei um laço para identificar se o número pertence ou não à sequência
 
 # Inicializando os dois primeiros números da sequência
 a = 0
